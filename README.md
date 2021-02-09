@@ -1,4 +1,4 @@
-# certstatus
+# Certstatus
 Bash script that check the status of the certificates of a url and alert the time of expiration date. I will give you back a file with the result.
 
 * Please create a plane file with a list of the domains to be check
