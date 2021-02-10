@@ -1,5 +1,5 @@
 #!/bin/bash
-dstnt=/tmp/domaisOUT-`date -I`.txt
+dstnt=/tmp/domainsOUT-`date -I`.txt
 days=7
 
 echo ""
