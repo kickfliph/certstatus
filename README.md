@@ -1,5 +1,5 @@
 # Certstatus
-Bash script that check the status of the certificates url and alert the time of expiration date. I will give you back a file with the result.
+Bash script that check the status of a domain certificate and alert the time of expiration date. I will give you back a file with the result.
 
 * Create a file with the list of domains to be check
 * chmod 755 the script certstatus.sh
